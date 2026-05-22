@@ -7,7 +7,7 @@
             "label": "Compile SASS to CSS",
             "type": "shell",
             "command": "sass style.sass style.css",
-            "group": "build"
+            "group": "build",
         }
     ]
 }
