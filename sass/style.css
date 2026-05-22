@@ -55,6 +55,9 @@ body {
   letter-spacing: 0.2rem;
 }
 
+.title-first {
+  color: #ffffff;
+}
 .title-first__1 {
   text-transform: uppercase;
   display: block;
