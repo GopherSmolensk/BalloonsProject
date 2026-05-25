@@ -2,3 +2,4 @@
 2. @keyframes
 3. @mixin
 4. backface-visibility
+5. ::after: content: ""
