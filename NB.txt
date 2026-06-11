@@ -3,3 +3,5 @@
 3. @mixin
 4. backface-visibility
 5. ::after: content: ""
+6. display: table
+7. clear: both
